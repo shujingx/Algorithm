@@ -1,0 +1,12 @@
+Reading Resources  
+
+Makinson: Sets, Logic and Maths for Computing
+You are expected to have an understanding of basic discrete mathematics. If you need to brush up, the first two chapters of this electronic resource may be useful; they cover sets and relations.
+
+
+Sedgewick: Algorithms in Java
+A great resource, and not only for the Java programmers.  Chapter 2 covers analysis and Chapters 3-5 cover different data structures.
+
+
+Skiena: The Algorithm Design Manual
+Another great resource. This one uses C.  It is targeted at the practitioner, and the second half of the book is a "catalog of algorithmic problems".  That is useful, because often you want to ask "For this particular type of problem, what are the possible algorithms, and what are the trade-offs amongst them?"
